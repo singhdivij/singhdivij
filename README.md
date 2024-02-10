@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @singhdivij
-- 👀 I’m interested in programming and CRM 
-- 🌱 I’m currently learning cloud, d365 CRM, web development
+- 👀 I aspire to become a full stack developer.
+- 🌱 I’m currently doing front-end web development. I know HTML, CSS, Javascript, Node, React
 - 💞️ I’m looking to collaborate on projects.
+- 🚀 Connect with me on twitter - @ - [divijxingh](https://twitter.com/divijxingh)
 - 📫 Reach me on my linkedin - @ - [divijsingh1](https://in.linkedin.com/in/divijsingh1) 
-- ⚡ Fun fact: When in a party, loud farts create vibe, silent farts ruin it.
+- ⚡ Fun fact: I'm really bored and exhausted to write one. Later, maybe.
 
 <!---
 singhdivij/singhdivij is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
